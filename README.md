@@ -1,0 +1,1 @@
+PassOP is a secure password manager application designed to store, manage, and protect users’ login credentials in a centralized and encrypted system. It helps users avoid remembering multiple passwords by allowing them to access all their credentials using a single master password
